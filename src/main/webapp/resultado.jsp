@@ -16,5 +16,6 @@
         <p>El cuadrado de <%= numero %> es <%= cuadrado %></p>
         <p>Puede volver <a href="index.jsp">atrás</a> y hacer un nuevo cálculo.</p>
         <p>All Rights Reserved - Universidad EAFIT</p>
+        <p>Todos los derechos reservados - Universidad EAFIT</p>
     </body>
 </html>
