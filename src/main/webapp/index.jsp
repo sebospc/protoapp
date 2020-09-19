@@ -12,6 +12,7 @@
             <input name="numero" type="number" /><input value="Calcular" type="submit" />
             <p>All Rights Reserved - Universidad EAFIT</p>
             <p>Todos los derechos reservados - Universidad EAFIT</p>
+            <p>Sebastian Ospina Cabarcas</p>
         </form>
     </body>
 </html>
